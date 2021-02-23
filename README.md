@@ -3,9 +3,9 @@
 
 
 ### ⬇️ Colab에서 열기 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaekookang/Korean-WordCloud/blob/master/kor_wordcloud_2021_02_23.ipynb)
 
-![cloud](https://github.com/jaekookang/Korean-WordCloud/blob/master/img/cloud.png?raw=true)
+![cloud](https://raw.githubusercontent.com/jaekookang/Korean-WordCloud/master/img/cloud.png)
 
 ---
 
